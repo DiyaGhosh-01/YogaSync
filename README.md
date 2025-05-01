@@ -27,15 +27,15 @@ We used a publicly available Yoga Posture dataset consisting of labeled images a
 (https://www.kaggle.com/datasets/tr1gg3rtrash/yoga-posture-dataset)
 
 ## 🚀 Setup Instructions
-# 1. Clone the repository:
+## 1. Clone the repository:
 
 git clone https://github.com/your-username/yoga-pose-detection.git
 cd yoga-pose-detection
-# 2. Install dependencies:
+## 2. Install dependencies:
 
 pip install -r requirements.txt
 
-# (Optional) If using Git LFS:
+## (Optional) If using Git LFS:
 
 git lfs install
 git lfs pull
