@@ -29,7 +29,7 @@ We used a publicly available Yoga Posture dataset consisting of labeled images a
 ## 🚀 Setup Instructions
 ## 1. Clone the repository:
 
-git clone https://github.com/your-username/yoga-pose-detection.git
+git clone (https://github.com/DiyaGhosh-01/YogaSync.git)
 cd yoga-pose-detection
 
 ## 2. Install dependencies:
