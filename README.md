@@ -31,6 +31,7 @@ We used a publicly available Yoga Posture dataset consisting of labeled images a
 
 git clone https://github.com/your-username/yoga-pose-detection.git
 cd yoga-pose-detection
+
 ## 2. Install dependencies:
 
 pip install -r requirements.txt
@@ -45,6 +46,8 @@ git lfs pull
 This project uses large models. Download them here:
 (https://drive.google.com/file/d/1nOhdReXvnkzkQm60y0kA0rNDSVmK6XYF/view?usp=drive_link)
 
+## Run the application
+streamlit run main_app.py --server.runOnSave true
 
 ## 🙋‍♀️ Acknowledgements
 Special thanks to the open-source community, TensorFlow/Keras contributors, and the creators of the Yoga Posture Dataset.
