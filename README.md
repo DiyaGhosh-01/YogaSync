@@ -35,11 +35,15 @@ cd yoga-pose-detection
 
 pip install -r requirements.txt
 
-#(Optional) If using Git LFS:
+# (Optional) If using Git LFS:
 
 git lfs install
 git lfs pull
 
+## Download Large Files
+
+This project uses large models. Download them here:
+(https://drive.google.com/file/d/1nOhdReXvnkzkQm60y0kA0rNDSVmK6XYF/view?usp=drive_link)
 
 
 ## 🙋‍♀️ Acknowledgements
